@@ -24,7 +24,7 @@ I have developed a Node.js command-line application that takes in information ab
 Because this application won’t be deployed, I’ll also need to provide a link to a walkthrough video that demonstrates its functionality and all of the tests passing. You’ll need to submit a link to the video and add it to the README of your project.
 
 ## Usage
-Use this application to generate a project README.md file.
+After installation, use Inquier from command line to answer a series of questions to generate a Team Profile (index.html). The generated file will be located: /dist/index.html).
   
 ## Screenshot:  
 ![Team-Profile-Generator](assets/image/samplepage.png)  
