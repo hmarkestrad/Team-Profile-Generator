@@ -1,18 +1,21 @@
 <h1 align="center">Object-Oriented Programming Team Profile Generator</h1>
 
 <p align="center">
-<img src="https://img.shields.io/github/repo-size/hmarkestrad/Professional-README-Generator" />
-<img src="https://img.shields.io/github/languages/top/hmarkestrad/Professional-README-Generator"  />
-<img src="https://img.shields.io/github/issues/hmarkestrad/Professional-README-Generator" />
-<img src="https://img.shields.io/github/last-commit/hmarkestrad/Professional-README-Generator" >
+<img src="https://img.shields.io/github/repo-size/hmarkestrad/Team-Profile-Generator" />
+<img src="https://img.shields.io/github/languages/top/hmarkestrad/Team-Profile-Generator"  />
+<img src="https://img.shields.io/github/issues/hmarkestrad/Team-Profile-Generator" />
+<img src="https://img.shields.io/github/last-commit/hmarkestrad/Team-Profile-Generator" >
 </p>
   
 ## Table of Contents
-- [Description](#description)
 - [Table of Contents](#table-of-contents)
-- [Installation](#installation)
+- [Description](#description)
 - [Usage](#usage)
 - [Screenshot](#screenshot)
+- [Contributions](#contributions)
+- [License](#license)
+- [Installation](#installation)
+- [Testing](#testing)
 - [Questions](#questions)
   
 ## Description
@@ -26,7 +29,7 @@ Use this application to generate a project README.md file.
 ## Screenshot:  
 ![Team-Profile-Generator](assets/image/samplepage.png)  
   
-## Credits & Contributions
+## Contributions
 H. Mark Estrada
   
 ## License
@@ -44,8 +47,12 @@ This application is covered by the MIT license.
 ![badge](https://img.shields.io/badge/-css-blue)
   
 ## Installation
-Run the following command at the root of your project: npm init | npm install inquirer<br>
+After cloning the GitHub Repository run the following commands at the root of your project: 
+`npm install node` `npm install` `npm install inquirer` `npm install jest`<br>
 To begin the README.md Generator test  type the following into a terminal: node test.js
+  
+## Testing
+To run Jest for tests on constructors: `npm test`  
   
 ## Questions
 GitHub: [hmarkestrad](https://github.com/hmarkestrad)<br>
