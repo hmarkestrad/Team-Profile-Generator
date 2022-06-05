@@ -26,7 +26,7 @@ Because this application won’t be deployed, I’ll also need to provide a link
 ## Usage
 After installation, use Inquier from command line to answer a series of questions to generate a Team Profile (index.html). The generated file will be located: /dist/index.html).  
   
-`node index.js`
+To start Inquier: `node index.js`
   
 ## Screenshot:  
 ![Team-Profile-Generator](assets/image/samplepage.png)  
