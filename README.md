@@ -12,6 +12,7 @@
 - [Table of Contents](#table-of-contents)
 - [Installation](#installation)
 - [Usage](#usage)
+- [Screenshot](#screenshot)
 - [Questions](#questions)
   
 ## Description
@@ -21,6 +22,9 @@ Because this application won’t be deployed, I’ll also need to provide a link
 
 ## Usage
 Use this application to generate a project README.md file.
+  
+## Screenshot:  
+![Team-Profile-Generator](assets/image/samplepage.png)  
   
 ## Credits & Contributions
 H. Mark Estrada
