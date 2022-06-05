@@ -24,7 +24,9 @@ I have developed a Node.js command-line application that takes in information ab
 Because this application won’t be deployed, I’ll also need to provide a link to a walkthrough video that demonstrates its functionality and all of the tests passing. You’ll need to submit a link to the video and add it to the README of your project.
 
 ## Usage
-After installation, use Inquier from command line to answer a series of questions to generate a Team Profile (index.html). The generated file will be located: /dist/index.html).
+After installation, use Inquier from command line to answer a series of questions to generate a Team Profile (index.html). The generated file will be located: /dist/index.html).  
+  
+`node index.js`
   
 ## Screenshot:  
 ![Team-Profile-Generator](assets/image/samplepage.png)  
@@ -48,7 +50,7 @@ This application is covered by the MIT license.
   
 ## Installation
 After cloning the GitHub Repository run the following commands at the root of your project:<br>  
-`npm install node` `npm install` `npm install inquirer` `npm install jest`<br>  
+`npm install node` `npm install` `npm install inquirer` `npm install jest` <br>  
   
 ## Testing
 To run Jest for tests on constructors: `npm test`  
