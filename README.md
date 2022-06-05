@@ -47,9 +47,8 @@ This application is covered by the MIT license.
 ![badge](https://img.shields.io/badge/-css-blue)
   
 ## Installation
-After cloning the GitHub Repository run the following commands at the root of your project: 
-`npm install node` `npm install` `npm install inquirer` `npm install jest`<br>
-To begin the README.md Generator test  type the following into a terminal: node test.js
+After cloning the GitHub Repository run the following commands at the root of your project:<br>  
+`npm install node` `npm install` `npm install inquirer` `npm install jest`<br>  
   
 ## Testing
 To run Jest for tests on constructors: `npm test`  
