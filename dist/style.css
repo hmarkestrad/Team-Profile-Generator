@@ -1,9 +1,10 @@
+/* Estrada cleaned up this code with js-beautify https://beautifier.io */
 * {
     box-sizing: border-box;
 }
 
 :root {
-    --primary: lightslategray;
+    --primary: rgb(112, 166, 121);
     --secondary: white;
 }
 
@@ -25,6 +26,8 @@ body {
 .card-header {
     background-color: var(--primary);
     color: var(--secondary);
+    bor
+    border-radius: 15px 50px 0px 0px;
 }
 
 .card-body {
@@ -37,3 +40,20 @@ body {
     justify-content: space-evenly;
     display: flex;
 }
+
+.card { border-radius: 12px; }
+h3 { font-size: 1rem; }
+h4 { font-size: 1rem; }
+
+p { 
+    padding-top: 0px;
+    padding-bottom: 0px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.id { 
+    font-size: 1.25rem;
+    font-weight: bold;
+}
+

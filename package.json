@@ -1,0 +1,28 @@
+{
+  "dependencies": {
+    "inquirer": "^8.2.4",
+    "jest": "^28.1.0",
+    "node": "^17.7.2"
+  },
+  "name": "team-profile-generator-estrada",
+  "description": "<h1 align=\"center\">Object-Oriented Programming Team Profile Generator</h1>",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hmarkestrad/Team-Profile-Generator.git"
+  },
+  "author": "H. Mark Estrada",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hmarkestrad/Team-Profile-Generator/issues"
+  },
+  "homepage": "https://github.com/hmarkestrad/Team-Profile-Generator#readme"
+}
