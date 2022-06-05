@@ -24,7 +24,7 @@ Because this application won’t be deployed, I’ll also need to provide a link
 Use this application to generate a project README.md file.
   
 ## Screenshot:  
-![Team-Profile-Generator](https://github.com/hmarkestrad/Team-Profile-Generator/assets/image/samplepage.png)  
+![Team-Profile-Generator](assets/image/samplepage.png)  
   
 ## Credits & Contributions
 H. Mark Estrada
