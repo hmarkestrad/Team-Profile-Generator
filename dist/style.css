@@ -4,7 +4,7 @@
 }
 
 :root {
-    --primary: rgb(112, 166, 121);
+    --primary: rgb(77, 133, 87);
     --secondary: white;
 }
 
@@ -41,7 +41,6 @@ body {
     display: flex;
 }
 
-.card { border-radius: 12px; }
 h3 { font-size: 1rem; }
 h4 { font-size: 1rem; }
 
